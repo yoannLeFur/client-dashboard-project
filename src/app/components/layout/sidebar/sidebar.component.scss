@@ -1,0 +1,11 @@
+.docs-component-viewer-nav .docs-component-viewer-nav-content {
+  width: 24rem;
+  height: 95vh;
+  overflow: auto;
+  position: fixed;
+  top: 6.4rem;
+}
+
+.docs-component-viewer-nav-content {
+  border-right: 1px solid rgba(0,0,0,.12);
+}

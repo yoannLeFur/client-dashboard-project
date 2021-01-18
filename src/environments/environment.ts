@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  url_client_dashboard_project: 'http://client-dashboard-project.dev.local',
+  url_api_client_dashboard_project: 'http://api-client-dashboard-project.dev.local',
+  application: 'CLIENT_DASHBOARD_PROJECT',
 };
 
 /*
